@@ -1,0 +1,12 @@
+.headerContainer {
+  background-color: #de5d13;
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0px;
+  box-sizing: border-box;
+  padding: 20px 60px;
+}
